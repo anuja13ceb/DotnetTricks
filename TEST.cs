@@ -12,7 +12,7 @@ namespace DotnetTricks
         public static void Main()
         {
         int x = 10;
-        int  y = 10;
+        int  y = 10; 
         int result = sumnumbers(x, y);
         Console.WriteLine(result);
 
