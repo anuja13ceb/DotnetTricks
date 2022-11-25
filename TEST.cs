@@ -14,7 +14,7 @@ namespace DotnetTricks
         int x = 10;
         int  y = 10; 
         int result = sumnumbers(x, y);
-        Console.WriteLine(result);
+        Console.WriteLine(result); 
 
         }
     }
